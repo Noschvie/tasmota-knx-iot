@@ -1,10 +1,10 @@
-# tasmota-knx-io
+# tasmota-knx-iot
 
 > Experimental project. Tested with Tasmota on ESP32 and SCD41 telemetry.
 
 Berry-based KNX IoT bridge for Tasmota devices.
 
-`tasmota-knx-io` enables Tasmota devices to publish sensor telemetry to a KNX IoT backend using the KNX 3rd Party API. The driver is designed for reliability on resource-constrained ESP32 devices and focuses on efficient outbound value updates.
+`tasmota-knx-iot` enables Tasmota devices to publish sensor telemetry to a KNX IoT backend using the KNX 3rd Party API. The driver is designed for reliability on resource-constrained ESP32 devices and focuses on efficient outbound value updates.
 
 ## Features
 
