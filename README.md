@@ -122,6 +122,7 @@ Particularly appreciated:
 - Tasmota
 - KNX IoT
 - KNX 3rd Party API
+- KNX IoT API Server [semantic-knx-gateway](https://github.com/Noschvie/semantic-knx-gateway)
 
 ## License
 
