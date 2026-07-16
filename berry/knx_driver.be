@@ -251,6 +251,7 @@ class KNXDriver
                 continue
             end
             data_array.push({
+                "type": "datapoint",
                 "id": uuid,
                 "attributes": {"value": str(value)},
             })
