@@ -15,7 +15,7 @@ Berry-based KNX IoT bridge for Tasmota devices.
 - Bulk datapoint updates for efficient communication
 - OAuth2 Client Credentials authentication
 - Automatic token refresh on authorization failures
-- Lightweight state-machine driven startup process
+- Lightweight state-machine-driven startup process
 - Designed for ESP32 devices running Tasmota
 
 ## Current Support
